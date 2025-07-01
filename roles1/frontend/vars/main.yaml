@@ -1,0 +1,5 @@
+CATALOGUE_HOST: catalogue.robolearning.site
+USER_HOST: user.robolearning.site
+CART_HOST: cart.robolearning.site
+SHIPPING_HOST: shipping.robolearning.site
+PAYMENT_HOST: payment.robolearning.site
