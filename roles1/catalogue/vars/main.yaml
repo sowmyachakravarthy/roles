@@ -1,1 +1,1 @@
-MONGODB_HOST: mongodb.robolearning.site
+MONGODB_HOST: "mongodb-{{ env }}.robolearning.site"
